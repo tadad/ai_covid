@@ -24,4 +24,4 @@ Below is an image of the model predictions vs the realized values.
 ![Predictions](./predictions.png)
 
 
-though our results were very good, we also discuessed some issues inherent to forecasting in the paper. We should remember that the spread of the virus is not an inevitable physical process - but that we have control over it through policy and the actions of individual. In sum: wear a mask!
+Though our results were very good, we also discuessed some issues inherent to forecasting in the paper. We should remember that the spread of the virus is not an inevitable physical process - but that we have control over it through policy and the actions of individual. In sum: wear a mask!
